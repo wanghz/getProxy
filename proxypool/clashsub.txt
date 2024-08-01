@@ -1,0 +1,4 @@
+https://maoy.cc/mfdy
+https://raw.githubusercontent.com/LITTLESITE/get_nodefree/main/sub.yaml
+https://cdn.statically.io/gh/openrunner/clash-freenode/main/clash.yaml
+https://cdn.jsdelivr.net/gh/zyzmzyz/free-nodes@master/Clash.yml
